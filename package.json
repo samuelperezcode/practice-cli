@@ -18,6 +18,7 @@
   "author": "Samuel Pérez <samuel.perez@ntsprint.com>",
   "license": "MIT",
   "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
     "@types/node": "^22.10.7",
     "typescript": "^5.7.3"
   },
