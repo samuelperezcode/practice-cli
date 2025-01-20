@@ -1,0 +1,24 @@
+{
+  "name": "test-cli",
+  "bin": {
+    "practice": "./dist/index.js"
+  },
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "link-cli": "pnpm unlink --global test-cli && pnpm link --global test-cli",
+    "build": "tsc",
+    "dev": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Samuel Pérez <samuel.perez@ntsprint.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "typescript": "^5.7.3"
+  }
+}
