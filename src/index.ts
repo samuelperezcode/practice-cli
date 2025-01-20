@@ -1,7 +1,15 @@
 #!/usr/bin/env node
 
-const hello = () => {
-  console.log('Hello World, WOW!!!')
-}
+import { Command } from 'commander'
 
-hello()
+// Declare the program
+const program = new Command();
+
+// Add actions
+program
+.argument('<string>', 'string to log')
+.action((message: string) => {console.log('Hello World ' + message)})
+.description('Log a message')
+
+// Execute the CLI
+program.parse(process.argv)
