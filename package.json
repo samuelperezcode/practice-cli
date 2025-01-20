@@ -5,6 +5,12 @@
   },
   "version": "0.0.0",
   "description": "A CLI app to practice and learn modern tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuelperezcode/practice-cli.git"
+  },
+  "homepage": "https://github.com/samuelperezcode/practice-cli",
+  "bugs": "https://github.com/samuelperezcode/practice-cli/issues",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
