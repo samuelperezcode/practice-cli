@@ -9,7 +9,7 @@ const program = new Command();
 program
 	.argument('<string>', 'string to log')
 	.action((message: string) => {
-		console.log(`Hello World ${message}`);
+		console.log(`Hello World - ${message}`);
 	})
 	.description('Log a message');
 
