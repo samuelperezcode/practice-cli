@@ -1,8 +1,8 @@
-<h1 align="center" style="border-bottom: none;">🫡 @akashrajpurohit/ts-npm-template</h1>
-<h3 align="center">A project template to bootstrap NPM package with Typescript</h3>
+<h1 align="center" style="border-bottom: none;">🫡 @samu/practice-cli</h1>
+<h3 align="center">A CLI app to practice and learn modern tools</h3>
 <br />
 <p align="center">
-  <a href="https://github.com/AkashRajpurohit/ts-npm-template/actions/workflows/release.yml">
+ <!--  <a href="https://github.com/AkashRajpurohit/ts-npm-template/actions/workflows/release.yml">
     <img alt="Build states" src="https://github.com/AkashRajpurohit/ts-npm-template/actions/workflows/release.yml/badge.svg?branch=main">
   </a>
   <a href="https://www.npmjs.com/package/@akashrajpurohit/ts-npm-template">
@@ -20,28 +20,20 @@
   </a>
   <a href="https://twitter.com/akashwhocodes">
     <img alt="follow on twitter" src="https://img.shields.io/twitter/follow/akashwhocodes.svg?style=social&label=@akashwhocodes">
-  </a>
+  </a> -->
 
   <p align="center">
-    <a href="https://github.com/AkashRajpurohit/ts-npm-template/issues/new?template=bug_report.yml">Bug report</a>
+    <a href="https://github.com/samuelperezcode/practice-cli/issues/new?template=bug_report.yml">Bug report</a>
     ·
-    <a href="https://github.com/AkashRajpurohit/ts-npm-template/issues/new?template=feature_request.yml">Feature request</a>
+    <a href="https://github.com/samuelperezcode/practice-cli/issues/new?template=feature_request.yml">Feature request</a>
     ·
-    <a href="https://akashrajpurohit.github.io/ts-npm-template">Read Docs</a>
+    <a href="https://github.com/samuelperezcode/practice-cli">Read Docs</a>
   </p>
 </p>
 <br />
 <hr />
 
-`@akashrajpurohit/ts-npm-template` is a opinionated bootstrap template to create NPM packages.
-
-Read more about the template and how it works in [this guide](https://akashrajpurohit.com/blog/building-and-publishing-typescript-npm-packages-a-stepbystep-guide/?ref=ts-npm-template-readme).
-
-## Usage 💻
-
-Click on the **"Use this template"** button from the options to create a new repository using this template. This will create a new repository with the same structure as this repository.
-
-That is pretty much it, follow the [configuration steps](#configurations-⚙️) for setting up your package and its done 🎉
+`@semu/practice-cli` is a CLI app to practice and learn modern tools.
 
 ## Technology stack 🚀
 
@@ -108,20 +100,11 @@ Follow the [contribution guidelines](./CONTRIBUTING.md) to contribute to this pr
 
 ## Bugs or Requests 🐛
 
-If you encounter any problems feel free to open an [issue](https://github.com/AkashRajpurohit/ts-npm-template/issues/new?template=bug_report.yml). If you feel the project is missing a feature, please raise a [ticket](https://github.com/AkashRajpurohit/ts-npm-template/issues/new?template=feature_request.yml) on GitHub and I'll look into it. Pull requests are also welcome.
+If you encounter any problems feel free to open an [issue](https://github.com/samuelperezcode/practice-cli/issues/new?template=bug_report.yml). If you feel the project is missing a feature, please raise a [ticket](https://github.com/samuelperezcode/practice-cli/issues/new?template=feature_request.yml) on GitHub and I'll look into it. Pull requests are also welcome.
 
-## Projects using this template 🙌🏽
-
-- [AkashRajpurohit/snowflake-id](https://github.com/AkashRajpurohit/snowflake-id) - Inspiration for this template.
-- [AkashRajpurohit/utils](https://github.com/AkashRajpurohit/utils) - Common utility functions.
-- [AkashRajpurohit/remark-add-query-param](https://github.com/AkashRajpurohit/remark-add-query-param) - Remark plugin to add query params to links.
-
-> Are you using this template for your project? Feel free to open a PR and add your project to the list.
-
-## Where to find me? 👀
+<!-- ## Where to find me? 👀
 
 [![Website Badge](https://img.shields.io/badge/-akashrajpurohit.com-3b5998?logo=google-chrome&logoColor=white)](https://akashrajpurohit.com/)
 [![Twitter Badge](https://img.shields.io/badge/-@akashwhocodes-00acee?logo=Twitter&logoColor=white)](https://twitter.com/AkashWhoCodes)
 [![Linkedin Badge](https://img.shields.io/badge/-@AkashRajpurohit-0e76a8?logo=Linkedin&logoColor=white)](https://linkedin.com/in/AkashRajpurohit)
-[![Instagram Badge](https://img.shields.io/badge/-@akashwho.codes-e4405f?logo=Instagram&logoColor=white)](https://instagram.com/akashwho.codes/)
-[![Telegram Badge](https://img.shields.io/badge/-@AkashRajpurohit-0088cc?logo=Telegram&logoColor=white)](https://t.me/AkashRajpurohit)
+[![Telegram Badge](https://img.shields.io/badge/-@AkashRajpurohit-0088cc?logo=Telegram&logoColor=white)](https://t.me/AkashRajpurohit) -->
